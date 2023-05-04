@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe.config
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.exe
+C:\Users\Admin\Documents\LargestAmong3Numberd\PerfectNumber\PerfectNumber\obj\Debug\PerfectNumber.pdb
